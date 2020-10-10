@@ -4,3 +4,4 @@
 ![cppcheck-action](https://github.com/99002570/New-Blood-Manage/workflows/cppcheck-action/badge.svg)
 ![Valgrind](https://github.com/99002570/New-Blood-Manage/workflows/Valgrind/badge.svg)
 ![C/C++ CI](https://github.com/99002570/New-Blood-Manage/workflows/C/C++%20CI/badge.svg)
+![Unit testing](https://github.com/99002570/New-Blood-Manage/workflows/Unit%20testing/badge.svg)
